@@ -52,7 +52,7 @@ p {
   justify-content: space-around;
 }
 .cover-description {
-  padding: 0px 30px;
+  padding: 0px auto;
 }
 .card {
   max-width: 250px;
@@ -72,10 +72,10 @@ p {
 }
 .top-description {
   font-weight: 900;
-  margin: 15px 0px;
+  margin: 15px 15px;
 }
 .bot-description {
-  margin: 0px 0px 15px 0px;
+  margin: 0px 15px 15px 15px;
 }
 #cover-container-two {
   background-color: #ffffff;
