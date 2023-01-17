@@ -71,10 +71,10 @@ p {
 }
 .top-description {
   font-weight: 900;
-  margin: 15px 15px;
+  margin: 15px 5px;
 }
 .bot-description {
-  margin: 0px 15px 15px 15px;
+  margin: 0px 5px 15px 5px;
 }
 #cover-container-two {
   background-color: #ffffff;
