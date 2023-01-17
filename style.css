@@ -33,6 +33,7 @@ p {
   padding: 5px 5px;
   background-color: #457b9d;
   border-radius: 5px;
+  min-width: 150px;
 }
 .color-text {
   margin: 0px;
